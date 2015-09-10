@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remkohdev.github.io</title>
+    <description></description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 09 Sep 2015 22:40:58 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2015 22:40:58 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>A simple MEAN+ application on Bluemix</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.ibm.com/bluemix/2015/09/08/simple-mean-application-bluemix/&quot; title=&quot;IBM Developer Bluemix Blog&quot;&gt;A simple MEAN+ application on Bluemix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 08 Sep 2015 14:01:11 -0400</pubDate>
+        <link>http://yourdomain.com/bluemix/node.js/2015/09/08/a-simple-meanplus-application-on-bluemix.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/bluemix/node.js/2015/09/08/a-simple-meanplus-application-on-bluemix.html</guid>
+        
+        <category>bluemix</category>
+        
+        <category>node.js</category>
+        
+        <category>mean</category>
+        
+        <category>mongodb</category>
+        
+        <category>angularjs</category>
+        
+        <category>express.js</category>
+        
+        <category>jade</category>
+        
+        <category>bootstrap</category>
+        
+        
+        <category>bluemix</category>
+        
+        <category>node.js</category>
+        
+      </item>
+    
+  </channel>
+</rss>
